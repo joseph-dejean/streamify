@@ -222,6 +222,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔄 Version History
 
-- **v1.0.0** - Initial release with basic GCS upload
-- **v2.0.0** - Added Airflow integration
-- **v3.0.0** - Kubernetes deployment support
+v0.1
